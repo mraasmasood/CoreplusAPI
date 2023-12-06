@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q9sL5tQORsQyILG7cazkGn1ryhEyBCV327xSlDdw9UU=",
+  "Source": "Coreplus.Sample.Api",
+  "BasePath": "_content/Coreplus.Sample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
